@@ -1,4 +1,4 @@
-@Library("OracleTest@main")
+@Library("Oracle@main")
   Oracle_Reports_OIC {
           approverEmail = "yatin.sawant@test.com"
                       }
